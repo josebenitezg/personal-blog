@@ -1,6 +1,6 @@
 ---
 title: '🏠 '
-status: 'draft'
+status: 'published'
 author:
   name: 'Jose Benitez'
   picture: 'https://avatars.githubusercontent.com/u/58047828?v=4'
