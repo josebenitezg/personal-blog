@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: '🏠 '
 status: 'published'
 author:
   name: 'Andre Vitorio'
@@ -10,8 +10,9 @@ coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-## Hello!
+## Hello! 👋 
 
-# I'm Andre, nice to meet you.
+# I am always trying something new.
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+One of my favorite thing to do is training neural network. Currently work with cool AI product at [Intuitivo.](intuitivo.com)
+
