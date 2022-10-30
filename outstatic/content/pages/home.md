@@ -1,13 +1,13 @@
 ---
 title: '🏠 '
-status: 'published'
+status: 'draft'
 author:
-  name: 'José Benítez'
-  picture: ''
+  name: 'Jose Benitez'
+  picture: 'https://avatars.githubusercontent.com/u/58047828?v=4'
 slug: 'home'
-description: 'This is my blog.'
+description: ''
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2022-10-30T22:38:15.806Z'
 ---
 
 ## Hello! 👋
