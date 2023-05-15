@@ -24,11 +24,10 @@ import cv2
 from pathlib import Path
 import torch
 import numpy as np
-from data_processing.config_vars import *
 
 DEVICE = 'cuda:0' if torch.cuda.is_available() else 'cpu'
-IMAGES_FOLDER = 'default_dataset'
-LABELS_FOLDER = 'yolo_labels'
+IMAGES_FOLDER = 'images'
+LABELS_FOLDER = 'yolo+box_labels'
 ```
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
