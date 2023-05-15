@@ -30,5 +30,17 @@ IMAGES_FOLDER = 'images'
 LABELS_FOLDER = 'yolo_box_labels'
 ```
 
+## **Carga del modelo SAM**
 
+Una vez que nuestro entorno está configurado, cargamos el modelo Segment Anything Model (SAM) que será responsable de la segmentación de nuestras imágenes.
+
+```python
+SAM_ENCODER_VERSION = "vit_h"
+SAM_CHECKPOINT_PATH = 'sam_vit_h_4b8939.pth'
+
+from segment_anything import sam_model_registry, SamPredictor
+
+sam = sam_model_registry[SAM_ENCODER_VERSION](checkpoint=SAM_CHECKPOINT_PATH).to(device=DEVICE)
+predictor = SamPredictor(sam)
+```
 
