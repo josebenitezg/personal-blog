@@ -14,5 +14,7 @@ publishedAt: '2022-10-30T22:38:15.806Z'
 
 # I am always trying something new.
 
-One of my favorite thing is to train deep neural networks. Currently working with cool AI product at [(https://intuitivo.com)\]\(intuitivo.com)
+One of my favorite thing is to train deep neural networks. Currently working with cool AI product at [intuitivo](https://intuitivo.com)
+
+### 🚧 WIP jeje
 
