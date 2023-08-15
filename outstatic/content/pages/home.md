@@ -16,5 +16,5 @@ publishedAt: '2022-10-30T22:38:15.806Z'
 
 One of my favorite thing is to train deep neural networks. Currently working with cool AI product at [intuitivo](https://intuitivo.com)
 
-### 🚧 WIP jeje
+### My life is alwas a WIP jeje 🚧
 
