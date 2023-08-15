@@ -10,3 +10,11 @@
   @apply flex items-center justify-center;
   margin: 10px
 }
+
+.top-right-corner {
+  display: flex;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;  /* Esto garantiza que el botón esté por encima de otros elementos */
+}
