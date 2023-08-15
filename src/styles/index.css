@@ -5,3 +5,8 @@
 .home-intro p {
   @apply text-2xl font-semibold leading-9;
 }
+
+.social-links {
+  @apply flex items-center justify-center;
+  margin: 10px
+}
