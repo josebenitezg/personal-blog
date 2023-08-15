@@ -7,14 +7,14 @@ author:
 slug: 'home'
 description: ''
 coverImage: ''
-publishedAt: '2022-10-30T22:38:15.806Z'
+publishedAt: '2023-08-14T22:38:15.000Z'
 ---
 
 ## Hello! 👋
 
 # I am always trying something new.
 
-One of my favorite thing is to train deep neural networks. Currently working with cool AI product at [intuitivo](https://intuitivo.com)
+One of my favorite thing is to train deep neural networks 🧠. Currently working with cool AI product at [intuitivo](https://intuitivo.com)
 
 ### My life is alwas a WIP jeje 🚧
 
