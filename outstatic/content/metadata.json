@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2023-11-13T02:02:19.810Z",
+  "commit": "5f51673727328c41888b3be580c717543d622acf",
+  "generated": "2023-11-13T02:11:37.016Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,6 +119,42 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
+    },
+    {
+      "__outstatic": {
+        "commit": "5f51673727328c41888b3be580c717543d622acf",
+        "hash": "3747607807",
+        "path": "outstatic/content/posts/vision-api.md"
+      },
+      "author": {
+        "name": "Jose Benitez",
+        "picture": "https://avatars.githubusercontent.com/u/58047828?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/visionapi-I1Mj.png",
+      "description": "Hello and welcome to VisionAPI, where cutting-edge GPT-based models meet simplicity in a sleek API interface. The mission is to harness the power of AI to work with images, videos, and audio to create Apps faster than ever.",
+      "publishedAt": "2023-11-13T01:32:21.417Z",
+      "slug": "vision-api",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "AI",
+          "value": "ai"
+        },
+        {
+          "label": "Machine Learning",
+          "value": "machineLearning"
+        },
+        {
+          "label": "LLM",
+          "value": "llm"
+        },
+        {
+          "label": "Computer Vision",
+          "value": "computerVision"
+        }
+      ],
+      "title": "Vision API"
     }
   ]
 }

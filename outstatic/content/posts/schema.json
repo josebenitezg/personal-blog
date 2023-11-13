@@ -20,6 +20,22 @@
         {
           "value": "outstatic",
           "label": "Outstatic"
+        },
+        {
+          "value": "ai",
+          "label": "AI"
+        },
+        {
+          "value": "machineLearning",
+          "label": "Machine Learning"
+        },
+        {
+          "value": "llm",
+          "label": "LLM"
+        },
+        {
+          "value": "computerVision",
+          "label": "Computer Vision"
         }
       ]
     }
