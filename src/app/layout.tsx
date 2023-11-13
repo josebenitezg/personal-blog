@@ -5,8 +5,8 @@ import '../styles/index.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://josebenitez.tech'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: 'Jose Benitez',
+    template: '%s | Jose Benitez'
   },
   description: 'Jose Benitez Blog.',
   openGraph: {

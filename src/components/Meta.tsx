@@ -33,7 +33,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`An example blog using Next.js + Outstatic.`}
+        content={`Jose Benitez Blog.`}
       />
       <meta
         property="og:image"
