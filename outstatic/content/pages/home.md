@@ -20,4 +20,4 @@ Obsessed with neural networks and biohacking. I tinker with awesome tech at [**@
 
 📹 \[YoloVision Conf - The Power of Foundation Model in Data Collection\](<https://www.youtube.com/live/xWZ9mW7Z4Tc?si=e9eTO6KDl4xBdAHA&amp;t=21551>)
 
-📹 \[Funny talk with Satya Mallick, CEO at OpenCV, the world's largest computer vision library\]("https://www.youtube.com/watch?v=IXhUOPBqyz4")
+📹 \[Funny talk with Satya Mallick, CEO at OpenCV, the world's largest computer vision library\](<https://www.youtube.com/watch?v=IXhUOPBqyz4>)
