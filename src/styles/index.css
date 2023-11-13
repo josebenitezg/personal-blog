@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.home-intro p {
-  @apply text-2xl font-semibold leading-9;
-}
-
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
