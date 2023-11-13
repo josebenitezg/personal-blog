@@ -1,20 +1,17 @@
 ---
-title: '🏠 '
+title: 'Home'
 status: 'published'
 author:
   name: 'Jose Benitez'
-  picture: 'https://avatars.githubusercontent.com/u/58047828?v=4'
+  picture: ''
 slug: 'home'
-description: ''
+description: 'Welcome!'
 coverImage: ''
-publishedAt: '2023-08-14T22:38:15.000Z'
+publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-## Hello! 👋
+## Hey There, Welcome! 👋🏼
 
-# I am always trying something new.
+#### I'm Jose.
 
-One of my favorite thing is to train deep neural networks 🧠. Currently working with cool AI product at [intuitivo](https://intuitivo.com)
-
-### My life is alwas a WIP jeje 🚧
-
+Obsessed with neural networks and biohacking. I tinker with awesome tech at [**@intuitivo**](https://www.intuitivo.com/). Tech geek at heart, open-source lover and always eager to plug into new machine learning adventures!
