@@ -1,6 +1,6 @@
 {
   "commit": "df88c8690c3d47d2d1c17dc79cf5d97b91bb5830",
-  "generated": "2023-11-13T03:07:10.026Z",
+  "generated": "2023-11-13T03:10:02.799Z",
   "metadata": [
     {
       "__outstatic": {
@@ -59,7 +59,7 @@
     {
       "__outstatic": {
         "commit": "df88c8690c3d47d2d1c17dc79cf5d97b91bb5830",
-        "hash": "3036358672",
+        "hash": "1533628121",
         "path": "outstatic/content/posts/playing-with-aws-inferentia-chips.md"
       },
       "author": {
