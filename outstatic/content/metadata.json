@@ -1,6 +1,6 @@
 {
-  "commit": "df88c8690c3d47d2d1c17dc79cf5d97b91bb5830",
-  "generated": "2023-11-13T03:10:02.799Z",
+  "commit": "90291e80d848d83eccb75b2fb2af15449b0a0d96",
+  "generated": "2023-11-13T03:11:35.605Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,8 +58,8 @@
     },
     {
       "__outstatic": {
-        "commit": "df88c8690c3d47d2d1c17dc79cf5d97b91bb5830",
-        "hash": "1533628121",
+        "commit": "90291e80d848d83eccb75b2fb2af15449b0a0d96",
+        "hash": "2953446962",
         "path": "outstatic/content/posts/playing-with-aws-inferentia-chips.md"
       },
       "author": {
@@ -67,12 +67,32 @@
         "picture": "https://avatars.githubusercontent.com/u/58047828?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "/images/inferentia-g0MD.jpeg",
       "description": "",
       "publishedAt": "2023-11-13T02:29:19.486Z",
       "slug": "playing-with-aws-inferentia-chips",
-      "status": "draft",
+      "status": "published",
       "tags": [
+        {
+          "label": "AI",
+          "value": "ai"
+        },
+        {
+          "label": "Machine Learning",
+          "value": "machineLearning"
+        },
+        {
+          "label": "Intuitivo",
+          "value": "intuitivo"
+        },
+        {
+          "label": "Computer Vision",
+          "value": "computerVision"
+        },
+        {
+          "label": "AWS",
+          "value": "aws"
+        }
       ],
       "title": "Playing with AWS Inferentia Chips"
     }

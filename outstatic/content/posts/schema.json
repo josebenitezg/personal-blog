@@ -36,6 +36,14 @@
         {
           "value": "computerVision",
           "label": "Computer Vision"
+        },
+        {
+          "value": "intuitivo",
+          "label": "Intuitivo"
+        },
+        {
+          "value": "aws",
+          "label": "AWS"
         }
       ]
     }
