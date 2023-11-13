@@ -1,6 +1,6 @@
 ---
 title: 'Vision API'
-status: 'draft'
+status: 'published'
 author:
   name: 'Jose Benitez'
   picture: 'https://avatars.githubusercontent.com/u/58047828?v=4'
@@ -13,7 +13,7 @@ publishedAt: '2023-11-13T01:32:21.417Z'
 
 ## Making Large Vision Models even easier to use.
 
-The main idea behind bulding VisionAPI is to use cutting-edge GPT-based models with simplicity in a sleek API interface. 
+The main idea behind bulding VisionAPI is to use cutting-edge GPT-based models with simplicity in a sleek API interface.
 
 Make sure you have Python installed on your system and you're ready to dive into the world of AI.
 
@@ -58,7 +58,6 @@ response = inference.image(image, prompt)
 
 # Revel in the AI-generated description
 print(response.message.content)
-
 ```
 
 ##### 🎥 Video Inference

@@ -1,6 +1,6 @@
 {
-  "commit": "5f51673727328c41888b3be580c717543d622acf",
-  "generated": "2023-11-13T02:11:37.016Z",
+  "commit": "684a66e559d69a24cdc95e64285473c2f49f1aba",
+  "generated": "2023-11-13T02:12:39.332Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,8 +122,8 @@
     },
     {
       "__outstatic": {
-        "commit": "5f51673727328c41888b3be580c717543d622acf",
-        "hash": "3747607807",
+        "commit": "684a66e559d69a24cdc95e64285473c2f49f1aba",
+        "hash": "1431468619",
         "path": "outstatic/content/posts/vision-api.md"
       },
       "author": {
@@ -135,7 +135,7 @@
       "description": "Hello and welcome to VisionAPI, where cutting-edge GPT-based models meet simplicity in a sleek API interface. The mission is to harness the power of AI to work with images, videos, and audio to create Apps faster than ever.",
       "publishedAt": "2023-11-13T01:32:21.417Z",
       "slug": "vision-api",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "AI",
