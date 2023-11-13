@@ -21,6 +21,7 @@
 
 @media (prefers-color-scheme: dark) {
   .dark\:text-white h1,
+  .dark\:text-white a,
   .dark\:text-white h2,
   .dark\:text-white h3,
   .dark\:text-white h4,
