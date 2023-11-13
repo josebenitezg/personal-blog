@@ -1,6 +1,6 @@
 {
-  "commit": "6b09e4c32e1f31e40aead4dcfb4430512896926d",
-  "generated": "Mon, 13 Nov 2023 02:33:02 GMT",
+  "commit": "df88c8690c3d47d2d1c17dc79cf5d97b91bb5830",
+  "generated": "2023-11-13T03:07:10.026Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,6 +55,26 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "df88c8690c3d47d2d1c17dc79cf5d97b91bb5830",
+        "hash": "3036358672",
+        "path": "outstatic/content/posts/playing-with-aws-inferentia-chips.md"
+      },
+      "author": {
+        "name": "Jose Benitez",
+        "picture": "https://avatars.githubusercontent.com/u/58047828?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-13T02:29:19.486Z",
+      "slug": "playing-with-aws-inferentia-chips",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Playing with AWS Inferentia Chips"
     }
   ]
 }
