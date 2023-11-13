@@ -1,6 +1,6 @@
 {
-  "commit": "90291e80d848d83eccb75b2fb2af15449b0a0d96",
-  "generated": "2023-11-13T03:11:35.605Z",
+  "commit": "d5266d092c24379e5a35be50ff5d37880a915198",
+  "generated": "2023-11-13T03:13:01.169Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,8 +58,8 @@
     },
     {
       "__outstatic": {
-        "commit": "90291e80d848d83eccb75b2fb2af15449b0a0d96",
-        "hash": "2953446962",
+        "commit": "d5266d092c24379e5a35be50ff5d37880a915198",
+        "hash": "3523644424",
         "path": "outstatic/content/posts/playing-with-aws-inferentia-chips.md"
       },
       "author": {
