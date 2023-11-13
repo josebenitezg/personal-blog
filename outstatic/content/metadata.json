@@ -1,6 +1,6 @@
 {
-  "commit": "d5266d092c24379e5a35be50ff5d37880a915198",
-  "generated": "2023-11-13T03:17:01.390Z",
+  "commit": "81306e16d02d8b613b3e94ec17746482b7c10ea2",
+  "generated": "2023-11-13T03:32:19.501Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
         }
       ],
       "title": "Vision API"
-    },
-    {
-      "__outstatic": {
-        "commit": "3cc4bb81df81a4d4bb2e04c4ac8cef212827f676",
-        "hash": "3457470558",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Jose Benitez",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Welcome!",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -95,6 +77,24 @@
         }
       ],
       "title": "Playing with AWS Inferentia Chips"
+    },
+    {
+      "__outstatic": {
+        "commit": "81306e16d02d8b613b3e94ec17746482b7c10ea2",
+        "hash": "1963194994",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Jose Benitez",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Welcome!",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
