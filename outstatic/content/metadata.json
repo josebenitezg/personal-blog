@@ -1,6 +1,6 @@
 {
   "commit": "d5266d092c24379e5a35be50ff5d37880a915198",
-  "generated": "2023-11-13T03:16:06.595Z",
+  "generated": "2023-11-13T03:17:01.390Z",
   "metadata": [
     {
       "__outstatic": {
@@ -59,7 +59,7 @@
     {
       "__outstatic": {
         "commit": "d5266d092c24379e5a35be50ff5d37880a915198",
-        "hash": "1042835093",
+        "hash": "372483903",
         "path": "outstatic/content/posts/playing-with-aws-inferentia-chips.md"
       },
       "author": {
@@ -68,7 +68,7 @@
       },
       "collection": "posts",
       "coverImage": "/images/inferentia-g0MD.jpeg",
-      "description": "",
+      "description": "AWS Inferentia accelerators are designed by AWS to deliver high performance at the lowest cost for your deep learning (DL) inference applications. ",
       "publishedAt": "2023-11-13T02:29:19.486Z",
       "slug": "playing-with-aws-inferentia-chips",
       "status": "published",

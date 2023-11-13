@@ -5,13 +5,13 @@ author:
   name: 'Jose Benitez'
   picture: 'https://avatars.githubusercontent.com/u/58047828?v=4'
 slug: 'playing-with-aws-inferentia-chips'
-description: ''
+description: 'AWS Inferentia accelerators are designed by AWS to deliver high performance at the lowest cost for your deep learning (DL) inference applications. '
 coverImage: '/images/inferentia-g0MD.jpeg'
 tags: [{"value":"ai","label":"AI"},{"value":"machineLearning","label":"Machine Learning"},{"label":"Intuitivo","value":"intuitivo"},{"value":"computerVision","label":"Computer Vision"},{"label":"AWS","value":"aws"}]
 publishedAt: '2023-11-13T02:29:19.486Z'
 ---
 
-![](/images/apop_render-U4Nz.png)
+![](/images/apop_render-QzMD.png)
 
 Original blogpost: [https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/](https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/%22%3Ehttps://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/%3C/a&gt)
 
@@ -25,7 +25,7 @@ The retail landscape is evolving rapidly and consumers expect the same easy-to-u
 
 While designing a camera-based product recognition and payment system, we ran into a decision of whether this should be done on the edge or the cloud. After considering several architectures, we designed a system that uploads videos of the transactions to the cloud for processing. Our end users start a transaction by scanning the A-POP’s QR code, which triggers the A-POP to unlock and then customers grab what they want and go. Preprocessed videos of these transactions are uploaded to the cloud. Our AI-powered transaction pipeline automatically processes these videos and charges the customer’s account accordingly. The following diagram shows the architecture of our solution. 
 
-![](/images/diagram_aws-I2OD.png)
+![](/images/diagram_aws-E0NT.png)
 
 ### Unlocking High-Performance and Cost-Effective Inference using AWS Inferentia
 
@@ -71,7 +71,7 @@ neuronx_model.save(f)
 
 We migrated our compute-heavy models from GPU-based EC2 instances p2 and p3 to Inf1. By leveraging AWS Inferentia, we achieved the throughput and performance to match our business needs. Adopting Inferentia-based Inf1 instances in the MLOps life cycle was a key to achieve remarkable results: \* Performance improvement: Our large computer vision models now run 5x faster, achieving over 120 FPS, allowing for seamless, realtime shopping experiences for our customers. Furthermore, the ability to process at this frame rate not only enhances transaction speed, but also, enables us to feed more information into our models. This 5x increase in data input significantly improves the accuracy of product detection within our models, further boosting the overall efficacy of our shopping systems. \* Cost savings: We managed to slash inference costs by an impressive 95%. This significantly enhanced the architecture design supporting our A-POPs. The higher reduction has been achieved by switching from EC2 p3.2xlarge instances. As said before, we were also able to process five times more images within the same time frame. The following chart shows the Frame per second (FPS) improvement for one of our product detection models that was running in containers on EC2 p3.2xlarge instances. 
 
-![](/images/fps_achived-Q0OT.png)
+![](/images/fps_achived-E5ND.png)
 
 ### Data Parallel Inference was easy with AWS Neuron SDK
 
@@ -81,7 +81,7 @@ To improve performance of our inference workloads and extract maximum performanc
 
 As we venture into the future, the impact of foundation models on the retail industry cannot be overstated. Foundation models can make a significant difference in product labeling. The ability to quickly and accurately identify and categorize different products is crucial in a fast-paced retail environment. With modern transformer-based models, we will be looking to deploy a larger diversity of models to serve more of our AI/ML needs, with higher accuracy, improving the experience for users, and without having to waste time and money training models from scratch. By harnessing the power of foundation models, we can accelerate the process of labeling, enabling retailers to scale their A-POP solutions more rapidly and efficiently. We have begun implementing Segment Anything Model (SAM), a vision transformer foundation model that can segment any object in any image. We will discuss this in another blog. SAM allows us to accelerate our labeling process with unparalleled speed. SAM is significantly more efficient, able to process approximately 62 times more images than a human can manually create bounding boxes for in the same timeframe. SAM's output is used to train a model that detects segmentation masks in transactions, opening up a window of opportunity for processing millions of images exponentially faster. This reduces training time and cost for product planogram models significantly. 
 
-![](/images/sam-cyMz.png)
+![](/images/sam-QwMD.png)
 
 Our product and AI/ML research teams are excited to be at the forefront of this transformation. The ongoing partnership with AWS and our use of AWS Inferentia in our infrastructure will ensure that we can deploy these foundation models in a cost-effective way. As early adopters, we are working with the new AWS Inferentia 2-based instances. Inf2 instances are built built for today's Generative AI and LLM inference acceleration, delivering higher performance and lower costs. Inf2 will enable us to empower retailers to harness the benefits of AI-driven technologies without breaking the bank, ultimately making the retail landscape more innovative, efficient, and customer-centric. As we continue to migrate more models to AWS Inferentia and AWS Inferentia2, including transformers-based foundational models, we are confident that our alliance with AWS will enable us to grow and innovate alongside our trusted cloud provider. Together, we will reshape the future of retail, making it smarter, faster, and more attuned to the ever-evolving needs of consumers.
 
