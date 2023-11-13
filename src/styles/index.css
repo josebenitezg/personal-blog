@@ -6,15 +6,39 @@
   @apply text-2xl font-semibold leading-9;
 }
 
-.social-links {
-  @apply flex items-center justify-center;
-  margin: 10px
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
 }
 
-.top-right-corner {
-  display: flex;
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  z-index: 1000;  /* Esto garantiza que el botón esté por encima de otros elementos */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 50, 50, 50;
+  }
+  .dark\:text-white {
+    color: white;
+  }
 }
+
+@media (prefers-color-scheme: dark) {
+  .dark\:text-white h1,
+  .dark\:text-white h2,
+  .dark\:text-white h3,
+  .dark\:text-white h4,
+  .dark\:text-white h5,
+  .dark\:text-white h6,
+  .dark\:text-white strong {
+    color: white;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom, rgb(var(--background-start-rgb)), rgb(var(--background-end-rgb)));
+  .dark\:text-white {
+    color: white;
+  }
+} 
