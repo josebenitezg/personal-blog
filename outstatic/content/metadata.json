@@ -1,6 +1,6 @@
 {
-  "commit": "ec5c240ba7d875d3e132147be3a4934a6ec97916",
-  "generated": "2023-11-13T03:39:46.085Z",
+  "commit": "5cb3f980c052288ca540465dba9e34bdc5f917ba",
+  "generated": "2024-01-08T19:45:02.163Z",
   "metadata": [
     {
       "__outstatic": {
@@ -95,6 +95,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "5cb3f980c052288ca540465dba9e34bdc5f917ba",
+        "hash": "1602984645",
+        "path": "outstatic/content/notes/env-in-python.md"
+      },
+      "author": {
+        "name": "Jose Benitez",
+        "picture": "https://avatars.githubusercontent.com/u/58047828?v=4"
+      },
+      "collection": "notes",
+      "coverImage": "",
+      "description": "Using .env in python quick note",
+      "publishedAt": "2024-01-08T19:14:23.667Z",
+      "slug": "env-in-python",
+      "status": "published",
+      "title": "Use .env in Python"
     }
   ]
 }
