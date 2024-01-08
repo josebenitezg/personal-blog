@@ -1,6 +1,6 @@
 {
-  "commit": "5cb3f980c052288ca540465dba9e34bdc5f917ba",
-  "generated": "2024-01-08T19:45:02.163Z",
+  "commit": "11f57a3c28b09064055b5526c313dcf5ba744f09",
+  "generated": "2024-01-08T19:46:14.717Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,6 +113,24 @@
       "slug": "env-in-python",
       "status": "published",
       "title": "Use .env in Python"
+    },
+    {
+      "__outstatic": {
+        "commit": "11f57a3c28b09064055b5526c313dcf5ba744f09",
+        "hash": "3718730666",
+        "path": "outstatic/content/notes/create-good-requirements.md"
+      },
+      "author": {
+        "name": "Jose Benitez",
+        "picture": "https://avatars.githubusercontent.com/u/58047828?v=4"
+      },
+      "collection": "notes",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-08T19:15:09.505Z",
+      "slug": "create-good-requirements",
+      "status": "published",
+      "title": "Create good requirements.txt"
     }
   ]
 }
